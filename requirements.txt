@@ -1,0 +1,7 @@
+ipykernel
+ipython
+python-dotenv
+requests
+gradio
+openai
+reportlab
